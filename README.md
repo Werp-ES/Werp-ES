@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Werp-ES but you can call me Iván
-- 👀 I’m interested in biotechnology specially in industrial biotechnology
-- 🌱 I’m currently learning about data science and simulation
+- 👀 I’m a back-end developer
+- 🌱 I program in Java and I use the Spring framework.
+- I also like DevOps. 
+- In my free time I'm learning golang
 - I'm from Valladolid, Spain.
 
 <!---
