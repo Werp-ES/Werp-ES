@@ -2,7 +2,7 @@
 - 👀 I’m a back-end developer
 - 🌱 I program in Java and I use the Spring framework.
 - I also like DevOps. 
-- In my free time I'm learning golang
+- In my free time I learn golang
 - I'm from Valladolid, Spain.
 
 <!---
